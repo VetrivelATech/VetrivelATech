@@ -1,22 +1,20 @@
 <div align="center">
 
-#  VETRIVEL A 
+#  VETRIVEL A
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Building+Future+Intelligent+Systems;Creating+Production+Grade+AI+Products;Future+Technology+Architect" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Building+Intelligent+Systems;Developing+Production+Grade+AI+Products;Future+Technology+Architect" />
 
-### Artificial Intelligence Engineer • System Architect • Technology Innovator
+### AI Engineer • Backend Architect • Intelligent Systems Developer
 
 **The best way to predict the future is to build it**
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=VetrivelATech&label=Profile%20Views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=VetrivelATech&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
 
 ---
 
-#  SYSTEM PROFILE
+#  ABOUT ME
 
 ```yaml
 Name: Vetrivel A
@@ -27,31 +25,67 @@ Education: B.Tech Artificial Intelligence and Data Science
 
 College: Rajalakshmi Institute of Technology
 
-Current Objective: Building world-class AI products
+Current Goal: Building world-class AI products
 
-Current Status: Engineering innovative intelligent systems
+Mission: Become one of the best AI engineers in industry
+
+Focus Areas:
+  - Artificial Intelligence
+  - Machine Learning
+  - Backend Engineering
+  - AI Agents
+  - Production Grade Systems
 ```
 
 ---
 
-#  ACTIVE PROJECT ECOSYSTEM
+#  FLAGSHIP PROJECTS
 
-## CORTEX_AI_NEXUS
+##  CORTEX_AI_NEXUS
 
-A production-grade intelligent ecosystem designed to enhance career development through advanced AI-driven solutions.
+Production-grade AI ecosystem designed for career intelligence and AI driven decision systems.
 
 Architecture:
 
-✓ Resume Intelligence Engine
-✓ Placement Probability Predictor
-✓ GitHub Skill Analyzer
-✓ AI Mentor Assistant
-✓ Career Intelligence Dashboard
-✓ Skill Weakness Radar Engine
-✓ Behavioral Analytics Layer
-✓ Live Recommendation System
-✓ Multi-Agent AI Pipeline
-✓ Intelligent Decision Engine
+✅ Resume Intelligence Engine  
+✅ Placement Probability Predictor  
+✅ GitHub Skill Analyzer  
+✅ AI Mentor Assistant  
+✅ Career Intelligence Dashboard  
+✅ Skill Weakness Radar Engine  
+✅ Behavioral Analytics Engine  
+✅ Live Recommendation System  
+✅ Multi-Agent AI Pipeline  
+✅ Intelligent Decision Engine  
+
+---
+
+##  NAVIS
+
+AI Powered Smart Public Transport Recommendation System
+
+Features:
+
+✅ Smart Route Recommendation  
+✅ Crowd Prediction Engine  
+✅ Fare Estimation System  
+✅ Comfort Based Route Selection  
+✅ Route Confidence Scoring  
+✅ Explainable AI Recommendation Layer  
+
+---
+
+##  AIVA
+
+Artificial Intelligence Interview Validation Assistant
+
+Features:
+
+✅ NLP Based Interview Analysis  
+✅ Behavioral Understanding  
+✅ Candidate Scoring Engine  
+✅ Communication Assessment  
+✅ Intelligent Feedback System  
 
 ---
 
@@ -60,102 +94,112 @@ Architecture:
 ## Languages
 
 <p align="center">
+
 Python • Java • C • C++ • SQL
+
 </p>
+
+---
 
 ## Artificial Intelligence Stack
 
 <p align="center">
-Machine Learning • Deep Learning • Natural Language Processing • Predictive Analytics • AI Agents • Computer Vision
+
+Machine Learning • Deep Learning • NLP • Predictive Analytics • AI Agents • Computer Vision
+
 </p>
+
+---
 
 ## Backend Architecture
 
 <p align="center">
-FastAPI • Flask • REST APIs • WebSocket Systems • Asynchronous Processing
+
+FastAPI • Flask • REST APIs • WebSockets • Async Processing • API Engineering
+
 </p>
+
+---
 
 ## Data Systems
 
 <p align="center">
+
 SQLite • MySQL • Pandas • NumPy • Scikit-learn
+
 </p>
+
+---
 
 ## Visualization
 
 <p align="center">
+
 Matplotlib • Tableau • Power BI
+
 </p>
+
+---
 
 ## Developer Stack
 
 <p align="center">
+
 Git • GitHub • Linux • VS Code
+
 </p>
-
----
-
-#  PROJECT DEPLOYMENTS
-
-###  CORTEX_AI_NEXUS
-
-AI Career Intelligence Platform
-
-###  AIVA
-
-Artificial Intelligence Interview Validation Assistant
-
-###  NAVIS
-
-AI-Based Public Transport Recommendation Engine
-
-###  Student Performance Predictor
-
-Predictive Analytics System
-
----
-
-#  PERFORMANCE ANALYTICS
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
 
 ---
 
 #  TECHNOLOGY MATRIX
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,git,github,linux,vscode,mysql,sqlite,flask,fastapi"/>
+
+</p>
+
+---
+
+#  PERFORMANCE ANALYTICS
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VetrivelATech&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetrivelATech&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
 #  EXECUTION ROADMAP 2026
 
-[✓] Master production-level Python
+☑ Master production-level Python  
 
-[✓] Develop real-world AI systems
+☑ Build real-world AI systems  
 
-[✓] Advance toward becoming a highly skilled AI engineer
+☑ Become highly skilled AI engineer  
 
-[✓] Secure a top-tier internship opportunity
+☑ Secure top-tier internship  
 
-[✓] Build scalable, startup-level AI products
+☑ Build startup-grade AI products  
 
-[✓] Achieve industry readiness
+☑ Achieve industry readiness  
+
+☑ Crack elite technology companies  
 
 ---
 
-#  NETWORK
+#  CONNECT
 
- LinkedIn → YOUR_LINKEDIN
+LinkedIn → (Add your LinkedIn here)
 
- Email → YOUR_EMAIL
+Email → vetrivelarumugam8@gmail.com
 
- Portfolio → YOUR_PORTFOLIO
+Portfolio → Coming Soon
+
+GitHub → https://github.com/VetrivelATech
 
 ---
 
@@ -164,9 +208,13 @@ Predictive Analytics System
 ```cpp
 while(alive)
 {
-   build_AI_systems();
-   learn_daily();
-   become_world_class_engineer();
+    build_AI_systems();
+
+    learn_daily();
+
+    improve_skills();
+
+    become_world_class_engineer();
 }
 ```
 
@@ -174,6 +222,8 @@ while(alive)
 
 <div align="center">
 
-#  Engineering the Future with Artificial Intelligence 
+# Engineering The Future With Artificial Intelligence
+
+### Building Technology That Matters
 
 </div>
