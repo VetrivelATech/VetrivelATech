@@ -2,14 +2,14 @@
 
 #  VETRIVEL A 
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Building+Future+Intelligent+Systems;Creating+Production+Grade+AI+Products;Future+Technology+Architect" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Building+Future+Intelligent+Systems;Creating+Production+Grade+AI+Products;Future+Technology+Architect" />
 
 ### Artificial Intelligence Engineer • System Architect • Technology Innovator
 
 **The best way to predict the future is to build it**
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views"/>
+<img src="https://komarev.com/ghpvc/?username=VetrivelATech&label=Profile%20Views"/>
 </p>
 
 </div>
