@@ -2,151 +2,135 @@
 
 # VETRIVEL A
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Building+Intelligent+Systems;Developing+Production+Grade+AI+Products;Future+Technology+Architect" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+Engineer;Building+Production+Grade+AI+Systems;Backend+Engineering+%7C+Machine+Learning;Future+Technology+Architect" />
 
-### Artificial Intelligence Engineer • Backend Architect • Intelligent Systems Developer
+### Artificial Intelligence Engineer | Backend Systems | Machine Learning Developer
 
-The best way to predict the future is to build it
+Building intelligent systems that solve real world problems
 
-<img src="https://komarev.com/ghpvc/?username=VetrivelATech&label=Profile%20Views&color=8A2BE2&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=VetrivelATech&label=Profile%20Views&color=A855F7&style=flat"/>
 
 </div>
 
 ---
 
-## ABOUT
+## PROFILE
 
 ```yaml
 Name: Vetrivel A
-Role: Artificial Intelligence Engineer
 Degree: B.Tech Artificial Intelligence and Data Science
-Institution: Rajalakshmi Institute of Technology
+College: Rajalakshmi Institute of Technology
 
-Primary Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Backend Engineering
-  - AI Agents
-  - Scalable System Design
+Focus:
+  Artificial Intelligence
+  Machine Learning
+  Backend Engineering
+  API Development
+  AI Agent Systems
 
-Current Mission:
-  Building production grade intelligent systems
+Mission:
+  Building scalable production grade software systems
 ```
 
 ---
 
-## CORE PROJECTS
+## FLAGSHIP PROJECT
 
-### CORTEX_AI_NEXUS
+# CORTEX_AI_NEXUS
 
-Production grade AI ecosystem focused on intelligent career development systems.
+Advanced AI ecosystem engineered for intelligent career development.
 
-Modules:
+Core Architecture
 
-Resume Intelligence Engine  
-Placement Probability Predictor  
-GitHub Skill Analyzer  
-AI Mentor Assistant  
-Career Intelligence Dashboard  
-Behavioral Analytics Layer  
-Live Recommendation Engine  
-Multi Agent AI Pipeline  
-Intelligent Decision Engine  
+Resume Intelligence Engine
 
----
+Placement Probability Prediction
 
-### NAVIS
+GitHub Skill Analysis Engine
 
-AI Based Smart Public Transport Recommendation Engine
+AI Mentor Assistant
 
-Route Recommendation  
-Crowd Prediction  
-Fare Estimation  
-Comfort Optimization  
-Explainable AI Decision Layer  
+Career Intelligence Dashboard
+
+Behavioral Analytics Layer
+
+Recommendation Engine
+
+Multi Agent Pipeline
+
+Decision Intelligence Engine
 
 ---
 
-### AIVA
+## PROJECTS
+
+AIVA
 
 Artificial Intelligence Interview Validation Assistant
 
-Interview Analysis  
-Candidate Evaluation  
-Communication Assessment  
-Feedback Intelligence  
+
+NAVIS
+
+AI Based Smart Public Transport Recommendation System
+
+
+AI Portfolio
+
+Professional portfolio engineering platform
 
 ---
 
-## TECHNICAL STACK
+## TECH STACK
 
 Languages
 
 Python • Java • C • C++ • SQL
 
+
 Artificial Intelligence
 
-Machine Learning • Deep Learning • Natural Language Processing • Predictive Analytics • Computer Vision • AI Agents
+Machine Learning • Deep Learning • NLP • AI Agents • Computer Vision
 
-Backend Systems
 
-FastAPI • Flask • REST APIs • WebSockets • Asynchronous Processing
+Backend Engineering
+
+FastAPI • Flask • REST APIs • WebSockets • Async Systems
+
 
 Data Layer
 
 SQLite • MySQL • Pandas • NumPy • Scikit Learn
 
-Visualization
 
-Matplotlib • Tableau • Power BI
+Developer Tools
 
-Development Tools
-
-Git • GitHub • Linux • VS Code
+Git • GitHub • Linux • VS Code • Tableau • Power BI
 
 ---
 
-## TECHNOLOGY MATRIX
+## TECHNOLOGY
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,git,github,linux,vscode,mysql,sqlite,flask,fastapi"/>
 
-</p>
+</div>
 
 ---
 
-## PERFORMANCE ANALYTICS
+## CURRENT FOCUS
 
-<p align="center">
+Artificial Intelligence Engineering
 
-<img src="https://github-readme-stats.vercel.app/api?username=VetrivelATech&show_icons=true&theme=radical"/>
+Backend API Development
 
-</p>
+Machine Learning Systems
 
-<p align="center">
+AI Agent Architecture
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetrivelATech&layout=compact&theme=radical"/>
+Scalable Software Design
 
-</p>
-
----
-
-## ROADMAP 2026
-
-Master advanced Python engineering
-
-Build real world AI systems
-
-Strengthen backend engineering skills
-
-Develop startup grade AI products
-
-Secure top internship opportunities
-
-Achieve production level development capability
-
-Become industry ready engineer
+Production Grade Development
 
 ---
 
@@ -156,13 +140,16 @@ LinkedIn
 
 https://www.linkedin.com/in/vetrivel-a-b9a70a32b
 
+
 Portfolio
 
 https://vetri-ai-portfolio-5ljd1jiwr.vercel.app/
 
+
 GitHub
 
 https://github.com/VetrivelATech
+
 
 Email
 
@@ -170,22 +157,26 @@ vetrivelarumugam8@gmail.com
 
 ---
 
-## CURRENT STATE
+## SYSTEM STATUS
 
-```cpp
-while(alive)
-{
-    build_intelligent_systems();
-    learn_every_day();
-    improve_engineering_skills();
-    become_world_class_engineer();
-}
+```python
+while(True):
+
+    learn()
+
+    build()
+
+    improve()
+
+    ship()
+
+    become_world_class_engineer()
 ```
 
 ---
 
 <div align="center">
 
-# Engineering The Future With Artificial Intelligence
+# ENGINEERING THE FUTURE WITH ARTIFICIAL INTELLIGENCE
 
 </div>
