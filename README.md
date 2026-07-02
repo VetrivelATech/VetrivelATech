@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ VETRIVEL A ⚡
+#  VETRIVEL A 
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=800&color=00FFF7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Building+Future+Intelligent+Systems;Creating+Production+Grade+AI+Products;Future+Technology+Architect" />
 
@@ -16,7 +16,7 @@
 
 ---
 
-# 🧬 SYSTEM PROFILE
+#  SYSTEM PROFILE
 
 ```yaml
 Name: Vetrivel A
@@ -34,7 +34,7 @@ Current Status: Engineering innovative intelligent systems
 
 ---
 
-# 🚀 ACTIVE PROJECT ECOSYSTEM
+#  ACTIVE PROJECT ECOSYSTEM
 
 ## CORTEX_AI_NEXUS
 
@@ -55,7 +55,7 @@ Architecture:
 
 ---
 
-# ⚙ ENGINEERING STACK
+#  ENGINEERING STACK
 
 ## Languages
 
@@ -95,27 +95,27 @@ Git • GitHub • Linux • VS Code
 
 ---
 
-# 🚀 PROJECT DEPLOYMENTS
+#  PROJECT DEPLOYMENTS
 
-### 🧠 CORTEX_AI_NEXUS
+###  CORTEX_AI_NEXUS
 
 AI Career Intelligence Platform
 
-### 🤖 AIVA
+###  AIVA
 
 Artificial Intelligence Interview Validation Assistant
 
-### 🚍 NAVIS
+###  NAVIS
 
 AI-Based Public Transport Recommendation Engine
 
-### 📊 Student Performance Predictor
+###  Student Performance Predictor
 
 Predictive Analytics System
 
 ---
 
-# 📊 PERFORMANCE ANALYTICS
+#  PERFORMANCE ANALYTICS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
 
@@ -125,7 +125,7 @@ Predictive Analytics System
 
 ---
 
-# 🛠 TECHNOLOGY MATRIX
+#  TECHNOLOGY MATRIX
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,git,github,linux,vscode,mysql,sqlite,flask,fastapi"/>
@@ -133,7 +133,7 @@ Predictive Analytics System
 
 ---
 
-# 🎯 EXECUTION ROADMAP 2026
+#  EXECUTION ROADMAP 2026
 
 [✓] Master production-level Python
 
@@ -149,17 +149,17 @@ Predictive Analytics System
 
 ---
 
-# 🌍 NETWORK
+#  NETWORK
 
-💼 LinkedIn → YOUR_LINKEDIN
+ LinkedIn → YOUR_LINKEDIN
 
-📧 Email → YOUR_EMAIL
+ Email → YOUR_EMAIL
 
-🌐 Portfolio → YOUR_PORTFOLIO
+ Portfolio → YOUR_PORTFOLIO
 
 ---
 
-# 💻 CURRENT STATUS
+#  CURRENT STATUS
 
 ```cpp
 while(alive)
@@ -174,6 +174,6 @@ while(alive)
 
 <div align="center">
 
-# ⚔ Engineering the Future with Artificial Intelligence ⚔
+#  Engineering the Future with Artificial Intelligence 
 
 </div>
