@@ -22,9 +22,7 @@ Degree: B.Tech Artificial Intelligence and Data Science
 
 College: Rajalakshmi Institute of Technology  
 
-Current Goal:
-
-Become a world class Artificial Intelligence Engineer and build impactful production grade systems.
+Current Goal: Become a world class Artificial Intelligence Engineer and build impactful production grade systems.
 
 ---
 
