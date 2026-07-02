@@ -8,159 +8,176 @@
 
 The best way to predict the future is to build it
 
-<img src="https://komarev.com/ghpvc/?username=VetrivelATech&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=VetrivelATech&label=Profile%20Views&color=8A2BE2&style=flat"/>
 
 </div>
 
 ---
 
-# ABOUT ME
+## ABOUT
 
 ```yaml
 Name: Vetrivel A
 Role: Artificial Intelligence Engineer
-Education: B.Tech Artificial Intelligence and Data Science
-College: Rajalakshmi Institute of Technology
-Current Goal: Building world-class AI products
-Mission: Become one of the best AI engineers in industry
+Degree: B.Tech Artificial Intelligence and Data Science
+Institution: Rajalakshmi Institute of Technology
 
-Focus Areas:
+Primary Focus:
   - Artificial Intelligence
   - Machine Learning
   - Backend Engineering
   - AI Agents
-  - Production Grade Systems
+  - Scalable System Design
+
+Current Mission:
+  Building production grade intelligent systems
 ```
 
 ---
 
-# FLAGSHIP PROJECTS
+## CORE PROJECTS
 
-## CORTEX_AI_NEXUS
+### CORTEX_AI_NEXUS
 
-Production-grade AI ecosystem designed for career intelligence and AI driven decision systems.
+Production grade AI ecosystem focused on intelligent career development systems.
 
-Architecture:
+Modules:
 
 Resume Intelligence Engine  
 Placement Probability Predictor  
 GitHub Skill Analyzer  
 AI Mentor Assistant  
 Career Intelligence Dashboard  
-Skill Weakness Radar Engine  
-Behavioral Analytics Engine  
-Live Recommendation System  
-Multi-Agent AI Pipeline  
+Behavioral Analytics Layer  
+Live Recommendation Engine  
+Multi Agent AI Pipeline  
 Intelligent Decision Engine  
 
 ---
 
-## NAVIS
+### NAVIS
 
-AI Powered Smart Public Transport Recommendation System
+AI Based Smart Public Transport Recommendation Engine
 
-Smart Route Recommendation  
-Crowd Prediction Engine  
-Fare Estimation System  
-Comfort Based Route Selection  
-Route Confidence Scoring  
-Explainable AI Recommendation Layer  
+Route Recommendation  
+Crowd Prediction  
+Fare Estimation  
+Comfort Optimization  
+Explainable AI Decision Layer  
 
 ---
 
-## AIVA
+### AIVA
 
 Artificial Intelligence Interview Validation Assistant
 
-NLP Based Interview Analysis  
-Candidate Scoring Engine  
+Interview Analysis  
+Candidate Evaluation  
 Communication Assessment  
-Intelligent Feedback System  
+Feedback Intelligence  
 
 ---
 
-# ENGINEERING STACK
+## TECHNICAL STACK
 
-## Languages  
-Python • Java • C • C++ • SQL  
+Languages
 
-## Artificial Intelligence Stack  
-Machine Learning • Deep Learning • NLP • Predictive Analytics • AI Agents • Computer Vision  
+Python • Java • C • C++ • SQL
 
-## Backend Architecture  
-FastAPI • Flask • REST APIs • WebSockets • Async Processing  
+Artificial Intelligence
 
-## Data Systems  
-SQLite • MySQL • Pandas • NumPy • Scikit-learn  
+Machine Learning • Deep Learning • Natural Language Processing • Predictive Analytics • Computer Vision • AI Agents
 
-## Visualization  
-Matplotlib • Tableau • Power BI  
+Backend Systems
 
-## Developer Stack  
-Git • GitHub • Linux • VS Code  
+FastAPI • Flask • REST APIs • WebSockets • Asynchronous Processing
+
+Data Layer
+
+SQLite • MySQL • Pandas • NumPy • Scikit Learn
+
+Visualization
+
+Matplotlib • Tableau • Power BI
+
+Development Tools
+
+Git • GitHub • Linux • VS Code
 
 ---
 
-# TECHNOLOGY MATRIX
+## TECHNOLOGY MATRIX
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,git,github,linux,vscode,mysql,sqlite,flask,fastapi"/>
+
 </p>
 
 ---
 
-# PERFORMANCE ANALYTICS
+## PERFORMANCE ANALYTICS
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VetrivelATech&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=VetrivelATech&show_icons=true&theme=radical"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetrivelATech&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetrivelATech&layout=compact&theme=radical"/>
 
 </p>
 
 ---
 
-# EXECUTION ROADMAP 2026
+## ROADMAP 2026
 
-Master production-level Python  
-Build real-world AI systems  
-Become highly skilled AI engineer  
-Secure top-tier internship  
-Build startup-grade AI products  
-Achieve industry readiness  
-Crack elite technology companies  
+Master advanced Python engineering
+
+Build real world AI systems
+
+Strengthen backend engineering skills
+
+Develop startup grade AI products
+
+Secure top internship opportunities
+
+Achieve production level development capability
+
+Become industry ready engineer
 
 ---
 
-# CONNECT
+## PROFESSIONAL LINKS
 
-LinkedIn  
+LinkedIn
+
 https://www.linkedin.com/in/vetrivel-a-b9a70a32b
 
-Email  
-vetrivelarumugam8@gmail.com
+Portfolio
 
-Portfolio  
 https://vetri-ai-portfolio-5ljd1jiwr.vercel.app/
 
-GitHub  
+GitHub
+
 https://github.com/VetrivelATech
+
+Email
+
+vetrivelarumugam8@gmail.com
 
 ---
 
-# CURRENT STATUS
+## CURRENT STATE
 
 ```cpp
 while(alive)
 {
-    build_AI_systems();
-    learn_daily();
-    improve_skills();
+    build_intelligent_systems();
+    learn_every_day();
+    improve_engineering_skills();
     become_world_class_engineer();
 }
 ```
@@ -170,7 +187,5 @@ while(alive)
 <div align="center">
 
 # Engineering The Future With Artificial Intelligence
-
-Building Technology That Matters
 
 </div>
