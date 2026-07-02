@@ -1,11 +1,11 @@
 <h1 align="center">VETRIVEL A</h1>
 
 <h3 align="center">
-Artificial Intelligence Engineer | Backend Engineer | Machine Learning Developer
+Artificial Intelligence Engineer | Backend Systems Engineer | Building Production Grade AI Products
 </h3>
 
 <p align="center">
-Building intelligent systems that solve real world problems
+Building intelligent systems that solve real world problems through scalable engineering
 </p>
 
 <p align="center">
@@ -17,20 +17,14 @@ Building intelligent systems that solve real world problems
 # PROFILE
 
 Name: Vetrivel A  
+
 Degree: B.Tech Artificial Intelligence and Data Science  
+
 College: Rajalakshmi Institute of Technology  
 
-Focus:
+Current Goal:
 
-Artificial Intelligence  
-Machine Learning  
-Backend Engineering  
-API Development  
-AI Agent Systems  
-
-Mission:
-
-Building scalable production grade software systems
+Become a world class Artificial Intelligence Engineer and build impactful production grade systems.
 
 ---
 
@@ -40,60 +34,73 @@ Building scalable production grade software systems
 
 Advanced AI ecosystem engineered for intelligent career development.
 
-Core Architecture
+Architecture:
 
 Resume Intelligence Engine  
-Placement Probability Prediction  
+
+Placement Probability Prediction Engine  
+
 GitHub Skill Analysis Engine  
+
 AI Mentor Assistant  
+
 Career Intelligence Dashboard  
+
 Behavioral Analytics Layer  
-Multi Agent Pipeline  
+
+Multi Agent AI Pipeline  
+
 Decision Intelligence Engine  
 
 ---
 
 # PROJECTS
 
-AIVA
+AIVA  
 
-Artificial Intelligence Interview Validation Assistant
+Artificial Intelligence Interview Validation Assistant  
 
-NAVIS
 
-AI Based Smart Public Transport Recommendation System
+NAVIS  
 
-AI Portfolio
+AI Based Smart Public Transport Recommendation System  
 
-Professional portfolio engineering platform
+
+AI Portfolio  
+
+Professional Portfolio Engineering Platform  
 
 ---
 
 # TECH STACK
 
-Languages
+Languages  
 
-Python • Java • C • C++ • SQL
+Python • Java • C • C++ • SQL  
 
-Artificial Intelligence
 
-Machine Learning • Deep Learning • NLP • AI Agents • Computer Vision
+Artificial Intelligence  
 
-Backend Engineering
+Machine Learning • Deep Learning • NLP • AI Agents • Computer Vision  
 
-FastAPI • Flask • REST APIs • WebSockets • Async Systems
 
-Data Layer
+Backend Engineering  
 
-SQLite • MySQL • Pandas • NumPy • Scikit Learn
+FastAPI • Flask • REST APIs • WebSockets • Async Systems  
 
-Developer Tools
 
-Git • GitHub • Linux • VS Code • Tableau • Power BI
+Data Systems  
+
+SQLite • MySQL • Pandas • NumPy • Scikit Learn  
+
+
+Developer Tools  
+
+Git • GitHub • Linux • VS Code • Tableau • Power BI  
 
 ---
 
-# TECHNOLOGY
+# TECHNOLOGY MATRIX
 
 <p align="center">
 
@@ -107,15 +114,15 @@ Git • GitHub • Linux • VS Code • Tableau • Power BI
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VetrivelATech&show_icons=true&theme=radical&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VetrivelATech&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetrivelATech&layout=compact&theme=radical&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VetrivelATech&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VetrivelATech&theme=radical&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=VetrivelATech&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -124,10 +131,15 @@ Git • GitHub • Linux • VS Code • Tableau • Power BI
 # CURRENT FOCUS
 
 Artificial Intelligence Engineering  
+
 Backend API Development  
+
 Machine Learning Systems  
+
 AI Agent Architecture  
+
 Scalable Software Design  
+
 Production Grade Development  
 
 ---
@@ -138,13 +150,16 @@ LinkedIn
 
 https://www.linkedin.com/in/vetrivel-a-b9a70a32b
 
+
 Portfolio  
 
 https://vetri-ai-portfolio-5ljd1jiwr.vercel.app/
 
+
 GitHub  
 
 https://github.com/VetrivelATech
+
 
 Email  
 
@@ -152,18 +167,18 @@ vetrivelarumugam8@gmail.com
 
 ---
 
-# SYSTEM STATUS
+# BUILD PHILOSOPHY
 
 ```python
-while(True):
+while alive:
 
     learn()
 
     build()
 
-    improve()
+    solve_real_world_problems()
 
-    ship()
+    improve_daily()
 
     become_world_class_engineer()
 ```
